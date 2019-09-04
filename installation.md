@@ -6,7 +6,7 @@
 
   [Видео по установке](https://www.youtube.com/watch?v=E8hUFNYt8VU)
 
-  1. Загрузите и установите Anaconda for Python 3.7 (Установка [здесь](https://www.continuum.io/downloads) )
+  1. Загрузите и установите Anaconda for Python 3.7 (Установка [здесь](https://www.anaconda.com/distribution/) )
 
   2. Запустите из командной строки jupyter notebook, чтобы убедиться, что установка завершена
 
